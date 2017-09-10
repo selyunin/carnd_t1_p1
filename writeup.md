@@ -38,12 +38,15 @@ and consists of the following steps
 
 <img src="test_images_output/solidYellowCurve2_4.jpg" width="300" alt="4_hough" />
 
-5) Converting line segments to polar coordinates (for separation left and right lines)
 
 
 6) Find left and right lane line and extrapolate these lines 
 
 <img src="test_images_output/solidYellowCurve2_4_2.jpg" width="300" alt="4_2_lane_segments" />
+
+5) Converting line segments to polar coordinates (for separation left and right lines)
+
+<img src="test_images_output/solidYellowCurve2_polar.jpg" width="300" alt="lane_polar" />
 
 7) Draw extrapolated lines
 
