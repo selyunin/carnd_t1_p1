@@ -22,7 +22,7 @@ Details
 ---
 
 Project details are described in more detail in the
-[writeup](https://github.com/udacity/CarND-LaneLines-P1/blob/master/writeup_template.md),
+[writeup](https://github.com/selyunin/carnd_t1_p1/blob/master/writeup.md),
 implementation in python notebook is available
-[here](https://github.com/udacity/CarND-LaneLines-P1/blob/master/P1.ipynb).
+[here](https://github.com/selyunin/carnd_t1_p1/blob/master/P1.ipynb).
 
